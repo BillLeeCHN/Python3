@@ -161,12 +161,3 @@ type(b) # bool
 ```python
 1 < x <= 3
 ```
-
-
-
-
-[打开](G:\GitHub\Python3\Python入门教程\1.md)
-
-
-
-[打开2](1.md)
