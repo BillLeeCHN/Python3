@@ -166,3 +166,7 @@ type(b) # bool
 
 
 [打开](G:\GitHub\Python3\Python入门教程\1.md)
+
+
+
+[打开2](1.md)
