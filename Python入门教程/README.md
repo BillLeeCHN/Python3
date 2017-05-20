@@ -7,7 +7,7 @@
 ## 目录
 - [Python](01-python)
    - [01 数字](01-python/01.01-numbers.md)
-
+   - [02 字符串](01-python/01.02-string.md)
 
 
 
