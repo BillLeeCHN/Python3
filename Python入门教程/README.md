@@ -8,8 +8,7 @@
 - [Python](01-python)
    - [01 数字](01-python/01.01-numbers.md)
    - [02 字符串](01-python/01.02-string.md)
-
-
+   - [03 索引和切片](01-python/01.03-index_slice.md)
 
 
 ## 参考 References
