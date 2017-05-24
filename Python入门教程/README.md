@@ -12,6 +12,9 @@
    - [02 字符串](01-python/01.02-string.md)
    - [03 索引和切片](01-python/01.03-index_slice.md)
    - [04 列表](01-python/01.04-list.md)
+   - [05 元组](01-python/01.05-tuple.md)
+
+
 
 ## 参考 References
 - [lijin-THU 中文Python笔记](https://github.com/lijin-THU/notes-python)
