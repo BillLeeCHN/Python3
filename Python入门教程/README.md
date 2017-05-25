@@ -13,7 +13,7 @@
    - [03 索引和切片](01-python/01.03-index_slice.md)
    - [04 列表](01-python/01.04-list.md)
    - [05 元组](01-python/01.05-tuple.md)
-
+   - [06 字典](01-python/01.06-dictionary.md)
 
 
 ## 参考 References
