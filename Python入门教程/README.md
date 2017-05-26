@@ -14,6 +14,8 @@
    - [04 列表](01-python/01.04-list.md)
    - [05 元组](01-python/01.05-tuple.md)
    - [06 字典](01-python/01.06-dictionary.md)
+   - [07 集合](01-python/01.07-set.md)
+
 
 
 ## 参考 References
