@@ -15,7 +15,7 @@
    - [05 元组](01-python/01.05-tuple.md)
    - [06 字典](01-python/01.06-dictionary.md)
    - [07 集合](01-python/01.07-set.md)
-
+   - [08 Python赋值机制](01-python/01.08-assignment.md)
 
 
 ## 参考 References
