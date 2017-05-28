@@ -22,3 +22,4 @@
 - [lijin-THU 中文Python笔记](https://github.com/lijin-THU/notes-python)
 
 # 声明
+如果发现错误，请指正，谢谢。**可发邮件**。
