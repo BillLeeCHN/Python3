@@ -16,7 +16,7 @@
    - [06 字典](01-python/01.06-dictionary.md)
    - [07 集合](01-python/01.07-set.md)
    - [08 Python赋值机制](01-python/01.08-assignment.md)
-
+   - [09 列表推导式](01-python/01.09-list_derivation.md)
 
 ## 参考 References
 - [lijin-THU 中文Python笔记](https://github.com/lijin-THU/notes-python)
