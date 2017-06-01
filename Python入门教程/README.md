@@ -19,6 +19,8 @@
    - [09 列表推导式 list derivation](01-python/01.09-list_derivation.md)
    - [10 控制流control flow](01-python/01.10-controlflow.md)
    - [11 异常 exception](01-python/01.11-exception.md)
+   - [12 类 class](01-python/01.12-class.md)
+
 
 ## 参考 References
 - [lijin-THU 中文Python笔记](https://github.com/lijin-THU/notes-python)
